@@ -1,3 +1,3 @@
 # hello-world
-Practice repository
+Practice repository\n
 I am brennan daly. i am looking to learn about coding. 
